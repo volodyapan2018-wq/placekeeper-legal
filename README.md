@@ -35,7 +35,7 @@ Replace `YOUR-USERNAME` with your actual GitHub username. Use the deployed URLs 
 ## Content maintenance
 
 Developer: Vladimir Panchenko  
-Contact: vp.appstore@gmail.com
+Contact: volodyapan2018@gmail.com
 
 The pages reflect the supplied app facts; no app source code was inspected. Keep them aligned with the shipping app and its SDK configuration, and update the displayed date when the policies change. Device backup behavior depends on device settings and app configuration. Hosting providers may process website request logs under their own policies.
 
